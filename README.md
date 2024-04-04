@@ -5,7 +5,7 @@ Este script em Python é utilizado para decifrar hashes do tipo Unix utilizando 
 ## Como usar
 
 1. Certifique-se de ter o Python 3 instalado no seu sistema.
-2. Clone este repositório ou baixe o arquivo `decifrador.py`.
+2. Clone este repositório ou baixe os arquivos `decifrador.py e listacomsenhas.txt`.
 3. Execute o script com o comando `./decifrador.py`.
 4. Insira a hash completa que deseja decifrar quando solicitado.
 
